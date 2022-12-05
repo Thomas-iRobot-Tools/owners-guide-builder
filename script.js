@@ -36,7 +36,7 @@
 		document.getElementById('code-display').innerHTML = 
 		'&lt;span style=&quot;color: #6c7680;&quot;&gt;&lt;a name=&quot;' + anchorName + '&quot;&gt;&lt;/a&gt; <br/>'+
 		'&lt;/span&gt; <br/>'+
-		'&lt;h2 style=&quot;text-align: center; margin-bottom: 20px;&quot;&gt;&lt;span style=&quot;color: #6c7680;&quot;&gt; <br/>'+ + sectionTitle + '&lt;/span&gt;&lt;/h2&gt; <br/>'+
+		'&lt;h2 style=&quot;text-align: center; margin-bottom: 20px;&quot;&gt;&lt;span style=&quot;color: #6c7680;&quot;&gt; <br/>'+ + sectionHeader + '&lt;/span&gt;&lt;/h2&gt; <br/>'+
 		'&lt;div class=&quot;download-column-container&quot;&gt; <br/>'+
 		'&lt;div class=&quot;download-column&quot;&gt;&lt;span style=&quot;color: #6c7680;&quot;&gt; <br/>'+
 		'&lt;!-- New Cell --&gt; <br/>'+
