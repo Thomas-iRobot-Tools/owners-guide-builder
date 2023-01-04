@@ -43,12 +43,20 @@ h1.nav-header {
     background-color: #65a70a;
 }
 .code-block {
-    background: #4a4a4a;
     display: inline-block;
     width: 49%;
-    min-height: 400px;
+    min-height: 1000px;
     height: 100%;
     vertical-align: top;
+}
+#final-textbox {
+    background: #4a4a4a;
+    display: inline-block;
+    width: 100%;
+    min-height: 1000px;
+    height: 100%;
+    vertical-align: top;
+    color: #fff;
 }
 pre{
     display: inline-block;
